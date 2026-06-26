@@ -1,0 +1,2 @@
+customtkinter>=5.0.0
+ollama>=0.1.0

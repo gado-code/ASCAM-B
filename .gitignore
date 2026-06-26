@@ -1,0 +1,31 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Base de datos local (contiene historial personal)
+memoria.db
+
+# Configuración de Claude / editores
+.claude/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+.env.local
